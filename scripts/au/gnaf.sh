@@ -60,7 +60,7 @@ SELECT
     longitude AS lon,
     latitude AS lat,
     locality_name AS city,
-    locality_postcode AS postcode,
+    postcode AS postcode,
     state AS region,
 
     (
